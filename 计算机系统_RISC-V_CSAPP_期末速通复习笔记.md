@@ -1,6 +1,6 @@
 # 计算机系统（CSAPP 思路 + RISC-V）期末速通复习笔记
 
-> 适用范围：根据你上传的课程 PDF（Overview、Bits/Ints、Float、RISC-V Machine-Level Programming、ISA、Datapath、Control、Pipeline、Memory Hierarchy、Cache、Virtual Memory）整理。目标是用最短时间抓住期末高频题型：**概念题会说、计算题会算、代码题会翻译、图题会分析**。
+> 适用范围：课程大纲（Overview、Bits/Ints、Float、RISC-V Machine-Level Programming、ISA、Datapath、Control、Pipeline、Memory Hierarchy、Cache、Virtual Memory）整理
 
 ---
 
